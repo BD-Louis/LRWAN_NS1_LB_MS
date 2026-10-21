@@ -1,2 +1,2 @@
-C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_sensors.c:76:6:EnvSensors_Read	1
-C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_sensors.c:112:7:EnvSensors_Init	1
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_sensors.c:86:7:EnvSensors_Read	4
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_sensors.c:129:7:EnvSensors_Init	1
