@@ -1,0 +1,5 @@
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/adc_if.c:98:6:SYS_InitMeasurement	1
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/adc_if.c:109:6:SYS_DeInitMeasurement	1
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/adc_if.c:116:9:SYS_GetTemperatureLevel	1
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/adc_if.c:135:10:SYS_GetBatteryLevel	2
+C:/Users/louis/Desktop/IOT_TP1/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/adc_if.c:165:17:ADC_ReadChannels	4
